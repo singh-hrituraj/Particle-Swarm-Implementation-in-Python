@@ -15,7 +15,6 @@ Then Install ffmpeg
 ```shell
 $ sudo apt-get install ffmpeg
 ```
-
-The credit for the original implementation goes to [Pradeep Gowda](https://gist.github.com/btbytes/79877). I have merely created a wrapper to show visualisation.
-
+## Suggestion
+Use Jupyter Notebook. It's cool as [Ajay](https://github.com/ajayrahul97) says. Thanks to him for suggesting edits.
 
