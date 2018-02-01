@@ -4,4 +4,4 @@ A naive implementation of Particle Swarm Optimisation in Python with Animation o
 ![Animation of Swarms](https://github.com/singh-hrituraj/Particle-Swarm-Implementation-in-Python/raw/master/Animation.gif)
 
 The output above has been produced while training using POS on Schaffer's F6 function. The function is given by :
-![F6](http://www.cs.unm.edu/~neal.holts/dga/benchmarkFunction/images/schafferf6Latex.png)
+![F6](https://github.com/singh-hrituraj/Particle-Swarm-Implementation-in-Python/blob/master/schafferf6Latex.png)
