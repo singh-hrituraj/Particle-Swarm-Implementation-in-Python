@@ -18,5 +18,5 @@ $ sudo apt-get install ffmpeg
 ## Suggestion
 Use Jupyter Notebook.
 
-Thanks to the original creater [Pradeep](https://gist.github.com/btbytes/79877/02db146894aeab3fffa44c0ca84c121c3ecc441e). I have merely created a wrapper for visualization and quadratic function.
+Thanks to the original creator [Pradeep](https://gist.github.com/btbytes/79877/02db146894aeab3fffa44c0ca84c121c3ecc441e). I have merely created a wrapper for visualization and quadratic function.
 
